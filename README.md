@@ -5,8 +5,8 @@ Backend and DevOps
 ------------------
 
 * 🌍  I'm based in Phuket
-* 🖥️  See my portfolio at [adityadixit.dev](http://www.adityadixit.dev)
-* 🧠  I'm learning RAG
+* 🖥️  See my portfolio at [adityadixit.dev](https://www.adityadixit.dev)
+* 🧠  Currently Completing Backend path at  [Boot.Dev](https://www.boot.dev/u/adityadixit)
 
 ### Skills
 
@@ -17,6 +17,9 @@ Backend and DevOps
 
 
 ### Socials
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/629e3dda-032a-46a0-ba81-40aef74b9fb4/thumbnail" >
+</p>
 
 <p align="left"> <a href="https://www.github.com/adityadixit-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
